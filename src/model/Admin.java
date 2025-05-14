@@ -2,6 +2,10 @@ package model;
 
 import java.util.Iterator;
 import java.util.List;
+<<<<<<< HEAD
+=======
+import java.util.*;
+>>>>>>> 0ffa477acd48388532c7b187d7dc75aea7acc793
 
 import annotations.RoleRequired;
 
@@ -26,4 +30,9 @@ public class Admin extends User{
 		
 		System.out.println(title+" event not found");
 	}
+<<<<<<< HEAD
 }
+=======
+
+}
+>>>>>>> 0ffa477acd48388532c7b187d7dc75aea7acc793

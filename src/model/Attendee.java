@@ -1,4 +1,4 @@
-package Model;
+package model;
 
 public class Attendee extends User{
 
